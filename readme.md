@@ -21,4 +21,4 @@ To install Jsoup to the project using intelliJ:
 
 ## Authors
 
-* **[Sofia Jia](https://github.com/username)** - *Initial work*
+* **[Sofia Jia](https://github.com/SofiaJYX)** - *Initial work*
